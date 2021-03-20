@@ -1,0 +1,23 @@
+[
+    {
+      "title": "The Communist Manifesto",
+      "authors": "Karl Marx, Friedrich Engels",
+      "publishing_year": 1848,
+      "publisher": "Communist League",
+      "language": "German"
+    },
+    {
+      "title": "Understanding Power",
+      "authors": "Noam Chomsky",
+      "publishing_year": 2002,
+      "publisher": "The New Press",
+      "language": "English"
+    },
+    {
+      "title": "Capitalism and Freedom",
+      "authors": "Milton Friedman",
+      "publishing_year": 2002,
+      "publisher": "University Of Chicago Press",
+      "language": "English"
+    }
+]
